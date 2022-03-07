@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any python project to learn
 - 📫 Reach me on my email: sanskar06dec@gmail.com
-- Please help to learn and understand.
+- Please help me to learn and understand python programming.
 
 <!---
 Sanskar-Mishra/Sanskar-Mishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
